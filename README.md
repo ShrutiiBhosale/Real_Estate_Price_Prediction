@@ -77,4 +77,4 @@ Contributions are welcome! If you have any suggestions or improvements, feel fre
 
 ---
 
-*This project was developed with the help of the `Real_Estate_Price_Prediction.ipynb` notebook*
+*This project was developed with the help of the `https://github.com/ShrutiiBhosale/Real_Estate_Price_Prediction/blob/main/Real_Estate_Price_Prediction.ipynb` notebook*
