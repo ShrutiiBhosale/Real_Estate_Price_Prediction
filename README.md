@@ -13,7 +13,7 @@ This repository contains the code and resources for predicting home prices in Ba
 - [Acknowledgements](#acknowledgements)
 
 ## Overview
-The Bangalore Home Prices Prediction project aims to provide an accurate model for predicting the prices of homes in Bangalore based on various features such as location, size, total square feet, and more. The model is trained using regression techniques and evaluated for its performance.
+The Real Estate Price Prediction project aims to provide an accurate model for predicting the prices of homes in Bangalore based on various features such as location, size, total square feet, and more. The model is trained using regression techniques and evaluated for its performance.
 
 ## Dataset
 The dataset used for training and testing the model contains information about various properties in Bangalore, including:
